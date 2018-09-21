@@ -5,6 +5,10 @@ uwo_ps_ml
 uwo_ps_ml is machine learing code and pre-processing tools for
 UWO(Uncharted Waters Online) Price Share Aide
 
+Requirements:
+  - pip install tensorflow
+  - pip install pillow
+
 Start machine learning
   - python ml.py
 
