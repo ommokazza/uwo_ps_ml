@@ -8,6 +8,7 @@ UWO(Uncharted Waters Online) Price Share Aide
 Requirements:
   - pip install tensorflow
   - pip install pillow
+  - pip install --upgrade git+https://github.com/ommokazza/uwo_ps_utils.git@master#egg=uwo_ps_utils
 
 Start machine learning
   - python ml.py
