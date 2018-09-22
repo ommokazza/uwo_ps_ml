@@ -1,0 +1,15 @@
+Gold
+62
+2
+Malaga
+71
+2
+Faro
+89
+0
+Valencia
+125
+0
+Palma
+98
+2

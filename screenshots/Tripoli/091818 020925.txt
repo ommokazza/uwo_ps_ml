@@ -1,0 +1,12 @@
+Gold
+80
+2
+Tunis
+98
+0
+Benghazi
+71
+0
+Algiers
+98
+2
