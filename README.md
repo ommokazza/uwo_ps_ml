@@ -1,20 +1,16 @@
-=========
-uwo_ps_ml
-==========
+# UWO PS ML
 
-uwo_ps_ml is machine learing code and pre-processing tools for
-UWO(Uncharted Waters Online) Price Share Aide
+Machine Learning code for UWO PS Projects
+(UWO: Uncharted Waters Online)
 
-Requirements:
-  - pip install tensorflow
-  - pip install pillow
-  - pip install --upgrade git+https://github.com/ommokazza/uwo_ps_utils.git@master#egg=uwo_ps_utils
 
-Start machine learning
-  - python ml.py
+# Simple Guide
+- Precondition<br>
+Traning data set in 'resources' directory.<br>
+To make traning data set, refer to [uwo_ps_tools](https://github.com/ommokazza/uwo_ps_tools) projects
 
-Tools for data pre-processing
-  - make_training_data.py
-    Extracts training data from screenshot and label file.
-  - make_label_text.py
-    Make label file for a screenshot by using learned model.
+- Start machine learning<br>
+python ml.py
+
+# Configuration
+pip install -r requirements.txt
